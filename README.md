@@ -1,3 +1,13 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/header-gif.gif">
+
+#
+
 # ⚛ David Fernandes Ramos
 
 **`Desenvolvedor FullStack`**
@@ -69,6 +79,11 @@ I'm a Software Engineering student and an aspiring Full Stack Developer. Passion
     src="https://github-readme-stats.vercel.app/api?username=DevDavidFernandes&show_icons=true&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&include_all_commits=true&locale=en" 
   />
 
+### Daily Commits
+
+![Snake animation](https://github.com/DevDavidFernandes/DevDavidFernandes/blob/main/dist/github-snake-dark.svg)
+
+---
 <img 
       align="left" 
       alt="GitHub Stats" 
