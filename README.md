@@ -17,7 +17,7 @@ I'm a Software Engineering student and an aspiring Full Stack Developer. Passion
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="210px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
