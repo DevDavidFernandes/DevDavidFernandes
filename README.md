@@ -7,10 +7,9 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 #
-
-# ⚛ David Fernandes Ramos
-
-**`Desenvolvedor FullStack`**
+<div style="text-align: center;" align="center">
+<h1>⚛ David Fernandes Ramos</h1>
+</div>
 
 I'm a Software Engineering student and an aspiring Full Stack Developer. Passionate about technology and problem-solving, I am constantly improving my skills in web development and software engineering.
 
@@ -69,26 +68,21 @@ I'm a Software Engineering student and an aspiring Full Stack Developer. Passion
 
 ### 📊 Statistics
 
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevDavidFernandes&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DevDavidFernandes&show_icons=true&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&include_all_commits=true&locale=en" 
-  />
+  <a href="https://github.com/DevDavidFernandes/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevDavidFernandes&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
-### Daily Commits
 
-![Snake animation](https://github.com/DevDavidFernandes/DevDavidFernandes/blob/main/dist/github-snake-dark.svg)
+#
 
----
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDavidFernandes&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&layout=compact&langs_count=5" 
-  />
-
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevDavidFernandes/DevDavidFernandes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevDavidFernandes/DevDavidFernandes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevDavidFernandes/DevDavidFernandes/output/github-contribution-grid-snake.svg">
+</picture>
