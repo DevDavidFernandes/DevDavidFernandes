@@ -6,7 +6,7 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
+
 <div style="text-align: center;" align="center">
 <h1>⚛ David Fernandes Ramos</h1>
 </div>
@@ -65,8 +65,6 @@ I'm a Software Engineering student and an aspiring Full Stack Developer. Passion
 <br/>
 
 ---
-
-### 📊 Statistics
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
