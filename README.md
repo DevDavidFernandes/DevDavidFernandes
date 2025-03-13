@@ -35,7 +35,7 @@ I'm a Software Engineering student and an aspiring Full Stack Developer. Passion
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)" height="25" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
   <img width="8" />
 
   
