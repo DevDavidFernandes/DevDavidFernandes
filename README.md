@@ -1,43 +1,49 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF652F&textBg=false"/>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF652FFF&center=true&vCenter=true&width=900&lines=❂+David+Fernandes+Ramos+❂" alt="Typing SVG"/>
 </div>
-
-
-<div style="text-align: center;" align="center">
-<h1>⚛ David Fernandes Ramos</h1>
-</div>
-
-I'm a Software Engineering student and an aspiring Full Stack Developer. Passionate about technology and problem-solving, I am constantly improving my skills in web development and software engineering.
-
-- 📚 &nbsp; Studying Software Engineering at <a href="https://estacio.br/cursos/graduacao/engenharia-de-software" target="_blank">UNESA - Universidade Estácio de Sá.</a>
-  <br>
-
-- 💼 &nbsp; Working as an IT intern at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
 
 #
 
-<img align="right" alt="" height="200px" src="./src/study.gif">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>I'm a Software Engineering student and an aspiring Full Stack Developer. Passionate about technology and problem-solving, I am constantly improving my skills in web development and software engineering.</p>
+      <br>
+      <ul>
+        <li>🎓 Studying Software Engineering at <a href="https://estacio.br/cursos/graduacao/engenharia-de-software" target="_blank">UNESA - Universidade Estácio de Sá.</a></li>
+        <li>💼 Working as an IT intern at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a></li>
+      </ul>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=DevDavidFernandes&theme=codestackr&hide_border=true&locale=pt_BR&background=09131B" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+#
+
+<img align="right" alt="" height="230px" src="https://i.pinimg.com/1200x/42/8d/71/428d71b149832433695f23dd79c26022.jpg">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:davidfernandesdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/david-fernandes-ramos-50bb57238/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/o.davocs/)
+[![G-mail](https://img.shields.io/badge/Gmail-09131B?style=for-the-badge&logo=Gmail&logoColor=%23FF652F&color=%2309131B)](mailto:davidfernandesdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-09131B?style=for-the-badge&logo=LinkedIn&logoColor=%23FF652F&color=%2309131B)](https://www.linkedin.com/in/david-fernandes-ramos-50bb57238/)
+[![Instagram](https://img.shields.io/badge/Instagram-09131B?style=for-the-badge&logo=Instagram&logoColor=%23FF652F&color=%2309131B
+)](https://www.instagram.com/o.davocs/)
+
 
 
 <h3 align="left">Technologies</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-  <img width="8" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  
 
   
 <br/>
@@ -49,15 +55,9 @@ I'm a Software Engineering student and an aspiring Full Stack Developer. Passion
   <h3>GitHub Stats</h3>
   <br>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevDavidFernandes&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&icon_color=FF00F6&border_radius=6"
-  />
-
-  <br><br>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDavidFernandes&layout=compact&langs_count=6&bg_color=000000&title_color=FF00F6&text_color=8B8B8B&border_radius=6"
-  />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevDavidFernandes&theme=codeSTACKr)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevDavidFernandes&theme=codeSTACKr)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevDavidFernandes&theme=codeSTACKr)
 
 </div>
 
@@ -69,3 +69,5 @@ I'm a Software Engineering student and an aspiring Full Stack Developer. Passion
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevDavidFernandes/DevDavidFernandes/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevDavidFernandes/DevDavidFernandes/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF652F&textBg=false&section=footer"/>
