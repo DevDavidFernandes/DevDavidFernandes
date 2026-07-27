@@ -76,13 +76,13 @@
   <h3>⚜ &nbsp; GitHub Stats</h3>
   <br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=DevDavidFernandes&show_icons=true&hide_border=true&title_color=C8983E&icon_color=E5C870&text_color=E8D5B0&bg_color=040B1A&locale=pt-br&rank_icon=github"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=DevDavidFernandes_icons=true&include_all_commits=true&theme=great-gatsby)
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDavidFernandes&layout=compact&hide_border=true&title_color=C8983E&text_color=E8D5B0&bg_color=040B1A&locale=pt-br"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=great-gatsby)
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevDavidFernandes&bg_color=040B1A&color=C8983E&line=C8983E&point=E5C870&area=true&area_color=C8983E&hide_border=true&radius=6"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevDavidFernandes&bg_color=000000&color=C8983E&line=C8983E&point=E5C870&area=true&area_color=C8983E&hide_border=true&radius=6"/>
 </div>
 
 <br/>
