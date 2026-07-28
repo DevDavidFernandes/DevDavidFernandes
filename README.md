@@ -76,7 +76,7 @@
   <h3>⚜ &nbsp; GitHub Stats</h3>
   <br/>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DevDavidFernandes_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=DevDavidFernandes_icons=true&include_all_commits=true&theme=great-gatsby)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DevDavidFernandes&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=DevDavidFernandes&show_icons=true&include_all_commits=true&theme=great-gatsby)
 &nbsp;
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DevDavidFernandes&layout=donut&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=great-gatsby)
 
