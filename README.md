@@ -32,7 +32,11 @@
     <!-- STREAK STATS COLUMN -->
     <td width="32%" align="center" valign="middle">
        <a href="https://git.io/streak-stats">
-  <img src="./profile/streak.svg" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=DevDavidFernandes&hide_border=true&background=040B1A&ring=C8983E&fire=C8983E&currStreakNum=E8D5B0&sideNums=E8D5B0&currStreakLabel=C8983E&sideLabels=C8983E&dates=9E8A5B"
+    alt="GitHub Streak"
+  />
+</a>
 </a>
     </td>
   </tr>
