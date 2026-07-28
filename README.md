@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0D1528&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=550110&textBg=false"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=34&pause=999999&color=C8983E&center=true&vCenter=true&width=900&lines=✦+David+Fernandes+Ramos+✦" alt="Name"/>
@@ -103,4 +103,4 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0D1528&textBg=false&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=550110&textBg=false&section=footer"/>
