@@ -19,15 +19,34 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=E5C870&color_dots=000000,3B2A00,6B4A00,9C6B1A,C8983E
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=E5C870&color_dots=000000,3B2A00,6B4A00,9C6B1A,C8983E
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Change snake colors
+        run: |
+          for file in dist/*.svg; do
+
+            sed -i 's/#161b22/#000000/g' "$file"
+
+            sed -i 's/#0e4429/#3B2A00/g' "$file"
+            sed -i 's/#006d32/#6B4A00/g' "$file"
+            sed -i 's/#26a641/#9C6B1A/g' "$file"
+            sed -i 's/#39d353/#C8983E/g' "$file"
+
+            sed -i 's/#30a14e/#C8983E/g' "$file"
+            sed -i 's/#216e39/#9C6B1A/g' "$file"
+
+            sed -i 's/#b08800/#FFD54F/g' "$file"
+            sed -i 's/#ffd33d/#FFD54F/g' "$file"
+
+          done
+
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
