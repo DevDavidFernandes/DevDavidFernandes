@@ -32,7 +32,7 @@
     <!-- STREAK STATS COLUMN -->
     <td width="32%" align="center" valign="middle">
       <a href="https://git.io/streak-stats">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DevDavidFernandes&hide_border=true&locale=pt_BR&background=040B1A&ring=C8983E&fire=E5C870&currStreakLabel=E8D5B0&sideLabels=C8983E&dates=7A6B9B&stroke=C8983E00&currStreakNum=E8D5B0&sideNums=E8D5B0" alt="GitHub Streak"/>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?  user=DevDavidFernandes&hide_border=true&locale=pt_BR&background=040B1A&ring=C8983E&fire=E5C870&currStreakLabel=E8D5B0&sideLabels=C8983E&dates=7A6B9B&stroke=C8983E00&currStreakNum=E8D5B0&sideNums=E8D5B0" alt="GitHub Streak"/>
       </a>
     </td>
   </tr>
@@ -76,9 +76,9 @@
   <h3>⚜ &nbsp; GitHub Stats</h3>
   <br/>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=DevDavidFernandes_icons=true&include_all_commits=true&theme=great-gatsby)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DevDavidFernandes_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=DevDavidFernandes_icons=true&include_all_commits=true&theme=great-gatsby)
 &nbsp;
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=great-gatsby)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DevDavidFernandesa&layout=donut&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=great-gatsby)
 
 <br/><br/>
 
