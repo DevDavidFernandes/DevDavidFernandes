@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-label="Ornamental divider">
+<title>Ornamental divider</title>
+<defs><linearGradient id="hair" x1="0" x2="1"><stop offset="0" stop-color="#C6A15B" stop-opacity="0"/><stop offset=".5" stop-color="#C6A15B"/><stop offset="1" stop-color="#C6A15B" stop-opacity="0"/></linearGradient>
+<linearGradient id="hairL" x1="0" x2="1"><stop offset="0" stop-color="#C6A15B" stop-opacity="0"/><stop offset="1" stop-color="#C6A15B"/></linearGradient>
+<linearGradient id="hairR" x1="0" x2="1"><stop offset="0" stop-color="#C6A15B"/><stop offset="1" stop-color="#C6A15B" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="44" fill="#000000"/>
+<rect x="80" y="21.5" width="480" height="1" fill="url(#hairL)"/><rect x="640" y="21.5" width="480" height="1" fill="url(#hairR)"/>
+<path d="M600 11L611 22L600 33L589 22Z" fill="none" stroke="#C6A15B" stroke-width="1.2"/><path d="M600 17L605 22L600 27L595 22Z" fill="#8E1C27"/>
+<path d="M574 19.5L576.5 22L574 24.5L571.5 22Z" fill="#C6A15B"/><path d="M626 19.5L628.5 22L626 24.5L623.5 22Z" fill="#C6A15B"/>
+</svg>

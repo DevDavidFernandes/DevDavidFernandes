@@ -19,32 +19,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # Empty cells in deep black, activity rising from crimson into aged gold
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Change snake colors
-        run: |
-          for file in dist/*.svg; do
-
-            sed -i 's/#161b22/#000000/g' "$file"
-
-            sed -i 's/#0e4429/#3B2A00/g' "$file"
-            sed -i 's/#006d32/#6B4A00/g' "$file"
-            sed -i 's/#26a641/#9C6B1A/g' "$file"
-            sed -i 's/#39d353/#C8983E/g' "$file"
-
-            sed -i 's/#30a14e/#C8983E/g' "$file"
-            sed -i 's/#216e39/#9C6B1A/g' "$file"
-
-            sed -i 's/#b08800/#FFD54F/g' "$file"
-            sed -i 's/#ffd33d/#FFD54F/g' "$file"
-
-          done
+            dist/github-contribution-grid-snake.svg?color_snake=#E4C98A&color_dots=#0A0A0A,#35060B,#5C0A12,#8C6A2E,#C6A15B&color_dot_border=#1b1f230a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#E4C98A&color_dots=#0A0A0A,#35060B,#5C0A12,#8C6A2E,#C6A15B&color_dot_border=#1b1f230a
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
